@@ -5,8 +5,9 @@
 #### By *Lynn Wainaina*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
-
+challenge1:Is a swap case that allows string as input.
+challenge2:Is a program that accepts two numbers to generate an array between them.
+challenge3:Is a function that takes an array of numbers as input and returns a new array containing only the prime numbers from the original array. 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
 
